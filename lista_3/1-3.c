@@ -119,4 +119,4 @@ Conjunto* uniaoDosConjuntos(Conjunto* c, Conjunto* b){
     }
     return uniao;
 }
-
+''
